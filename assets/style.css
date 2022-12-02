@@ -1,0 +1,51 @@
+#left {
+    height: 100px;
+    background-color: #DA291C;
+    text-align: center;
+    color: aliceblue;
+}
+
+#middle {
+    height: 100px;
+    background-color: #0033A0;
+    text-align: center;
+    color: aliceblue;
+}
+    
+#right {
+    height: 100px;
+    background-color: #FF9E1B;
+    text-align: center;
+    color: aliceblue;
+}
+
+.my-output {
+    background-color:#adb9ca;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 50px;
+    text-align:center;   
+    display: block;
+}
+
+
+.temp-div {
+    background-color:#adb9ca;
+    border: 15px solid green;
+    text-align:center; 
+    text-decoration: solid;
+    font-size: 30px ;
+    height: 300px;
+    margin-top: 150px;
+}
+
+.temp-forms-div{
+    border: 15px solid green;
+}
+
+.navigation{
+    margin-right: 20px;
+}
+
+
